@@ -1,0 +1,19 @@
+* reglas
+los campos pueden superponerse sus casillas
+los campos se marcan como un nombre de campo seguido de primer y ultimo caracter del campo
+si solo hay un numero y es positivo se toma desde la posicion indicada hasta el fin de linea
+si el numero es negativo entonces se toma desde la u ltima posicion tantos caracteres  como se indiquen
+* campos
+primero,0,10
+segundo,10,23
+tercero,32
+cuarto,-10
+* ficheros
+lectura,ejemplo.txt
+escritura,ejemplo.csv
+* separador
+,
+* cabeceras
+input 0
+output 1
+* fin
